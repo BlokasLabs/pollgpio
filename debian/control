@@ -1,0 +1,13 @@
+Source: pollgpio
+Section: utils
+Priority: optional
+Maintainer: Blokas <hello@blokas.io>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.0
+Homepage: https://blokas.io/
+
+Package: pollgpio
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Polls GPIO pin state and prints it to stdout
