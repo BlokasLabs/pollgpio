@@ -1,3 +1,9 @@
+pollgpio (1.0.0-2) UNRELEASED; urgency=low
+
+  * Rebuilt for trixie.
+
+ -- Giedrius Trainavičius <giedrius@blokas.io>  Mon, 24 Nov 2025 15:03:06 +0200
+
 pollgpio (1.0.0-1) UNRELEASED; urgency=low
 
   * Initial release.
